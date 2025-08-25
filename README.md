@@ -52,7 +52,7 @@ To develop a **comprehensive credit card weekly dashboard** that provides **real
 - **Delinquent Rate** → **6.06%**  
 
 ### 👥 Customer Insights  
-- **Age Group 60+** → Highest revenue contribution.  
+- **Age Group 40-50** → Highest revenue contribution.  
 - **Businessmen & White-collar** → Top job segments driving income.  
 - **Graduate & Post-Graduate** → Majority of revenue share.  
 - **Married customers** → Higher revenue than singles.  
